@@ -27,15 +27,11 @@ print(middle_fruits)
 # # fruits.remove("apples")
 # #
 # # print(fruits)
-# #
 # # # print(fruits[3])
 # # fruits.append("water melon")
-# #
 # # print(fruits)
-# #
 # # print(fruits.pop())
 # # print(fruits)
-#
 # # sorted_fruits= sorted(fruits)
 # #
 # # print(sorted_fruits)
